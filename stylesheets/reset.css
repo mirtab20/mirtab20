@@ -1,0 +1,8 @@
+html, body, div, span, h2, h3, h4, h5, h6, p, table, hgroup, section, a, img, caption, figcaption {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    font-family: 'lora';
+   }
